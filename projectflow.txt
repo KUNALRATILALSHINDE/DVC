@@ -1,1 +1,7 @@
 1.Create mycode.py and add code to it
+2.git add commit push commands
+3.dvc installation
+4.dvc init
+5.mkdir S3(Remote origin for DVC created)
+6.dvc remote add -d myremote S3
+7.dvc add data/ (specific file tracking)
