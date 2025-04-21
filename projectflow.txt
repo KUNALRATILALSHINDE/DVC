@@ -5,3 +5,4 @@
 5.mkdir S3(Remote origin for DVC created)
 6.dvc remote add -d myremote S3
 7.dvc add data/ (specific file tracking)
+8.dvc commit and push
