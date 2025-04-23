@@ -14,11 +14,3 @@ From organizing data to creating reproducible ML pipelines, DVC has completely c
 - 🔄 Clean and modular ML pipelines
 
 ---
-
-## 🌱 What I Explored
-
-### ✅ The Basics
-- Installing and initializing DVC (`dvc init`)
-- Tracking datasets using:
-  ```bash
-  dvc add data/train.csv
